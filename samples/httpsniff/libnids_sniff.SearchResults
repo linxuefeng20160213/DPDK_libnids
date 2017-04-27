@@ -1,0 +1,3 @@
+---- tcp_callback Matches (2 in 0 files) ----
+httpsniff.c:void tcp_callback(struct tcp_stream *a_tcp, void ** this_time_not_needed)
+httpsniff.c:	nids_register_tcp(tcp_callback);
